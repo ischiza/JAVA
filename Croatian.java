@@ -1,3 +1,4 @@
+//java exercise 7
 public class Croatian {
 
 	public static String getCoost(String ganoin, String nignay) {
